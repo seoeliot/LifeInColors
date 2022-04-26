@@ -958,3 +958,36 @@ Make sure 'BP_FirstPerson_C' has been compiled for  Call OnUseItem
 [2022.04.26-14.36.09:235][401]LogSavePackage: Moving '../../../../UnrealProjects/LifeInColors/Saved/BP_Rifle6BFF953A4A87758B9426B5895E2D11E2.tmp' to '../../../../UnrealProjects/LifeInColors/Content/UE5/FirstPerson/Blueprints/BP_Rifle.uasset'
 [2022.04.26-14.36.09:253][401]AssetCheck: New page: Asset Save: BP_Rifle
 [2022.04.26-14.36.09:253][401]LogContentValidation: Display: Validating Blueprint /Game/UE5/FirstPerson/Blueprints/BP_Rifle.BP_Rifle
+[2022.04.26-14.36.35:461][671]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.04.26-14.36.35:465][671]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/UE5/FirstPerson/Maps/FirstPersonMap/8/GW/O6MZOIU88ZQLX1MCDA8GFZ_Auto2
+[2022.04.26-14.36.35:465][671]LogSavePackage: Moving '../../../../UnrealProjects/LifeInColors/Saved/O6MZOIU88ZQLX1MCDA8GFZ_Auto254DFD9F546203187CE4D3EB1B3A0F67A.tmp' to '../../../../UnrealProjects/LifeInColors/Saved/Autosaves/Game/__ExternalActors__/UE5/FirstPerson/Maps/FirstPersonMap/8/GW/O6MZOIU88ZQLX1MCDA8GFZ_Auto2.uasset'
+[2022.04.26-14.36.35:465][671]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/UE5/FirstPerson/Maps/FirstPersonMap' took 0.054
+[2022.04.26-14.36.35:465][671]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.054
+[2022.04.26-14.36.35:488][671]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson] ([2] browsable assets)...
+[2022.04.26-14.36.35:633][671]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson.BP_FirstPerson]
+[2022.04.26-14.36.35:634][671]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson]
+[2022.04.26-14.36.35:652][671]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson_Auto2
+[2022.04.26-14.36.35:652][671]LogSavePackage: Moving '../../../../UnrealProjects/LifeInColors/Saved/BP_FirstPerson_Auto26904D8284D0EAABA2BC7608323E51659.tmp' to '../../../../UnrealProjects/LifeInColors/Saved/Autosaves/Game/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson_Auto2.uasset'
+[2022.04.26-14.36.35:653][671]LogFileHelpers: Auto-saving content packages took 0.187
+[2022.04.26-14.37.08:489][453]BlueprintLog: New page: Compile BP_Rifle
+[2022.04.26-14.37.08:494][453]LogBlueprint: Error: [AssetLog] D:\UnrealProjects\LifeInColors\Content\UE5\FirstPerson\Blueprints\BP_Rifle.uasset: [Compiler] Create Event  : missing a function/event name.
+[2022.04.26-14.37.08:511][453]LogBlueprint: Error: [AssetLog] D:\UnrealProjects\LifeInColors\Content\UE5\FirstPerson\Blueprints\BP_Rifle.uasset: [Compiler] Failed to create property K2Node_CreateDelegate_OutputDelegate from  <None>  due to a bad or unknown type (Delegate)
+[2022.04.26-14.37.08:537][453]LogBlueprint: Error: [AssetLog] D:\UnrealProjects\LifeInColors\Content\UE5\FirstPerson\Blueprints\BP_Rifle.uasset: [Compiler] Create Event  Signature Error: No function/event specified.
+[2022.04.26-14.37.08:621][453]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.04.26-14.37.24:909][178]BlueprintLog: New page: Compile BP_Rifle
+[2022.04.26-14.37.24:913][178]LogBlueprint: Error: [AssetLog] D:\UnrealProjects\LifeInColors\Content\UE5\FirstPerson\Blueprints\BP_Rifle.uasset: [Compiler] Create Event  : missing a function/event name.
+[2022.04.26-14.37.24:913][178]LogBlueprint: Error: [AssetLog] D:\UnrealProjects\LifeInColors\Content\UE5\FirstPerson\Blueprints\BP_Rifle.uasset: [Compiler] Failed to create property K2Node_CreateDelegate_OutputDelegate from  <None>  due to a bad or unknown type (Delegate)
+[2022.04.26-14.37.24:913][178]LogBlueprint: Error: [AssetLog] D:\UnrealProjects\LifeInColors\Content\UE5\FirstPerson\Blueprints\BP_Rifle.uasset: [Compiler] Create Event  Signature Error: No function/event specified.
+[2022.04.26-14.37.24:975][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.04.26-14.37.33:791][152]BlueprintLog: New page: Compile BP_Rifle
+[2022.04.26-14.37.33:860][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2022.04.26-14.37.33:982][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UE5/FirstPerson/Blueprints/BP_Rifle" FILE="../../../../UnrealProjects/LifeInColors/Content/UE5/FirstPerson/Blueprints/BP_Rifle.uasset" SILENT=true
+[2022.04.26-14.37.33:996][152]LogSavePackage: Moving output files for package: /Game/UE5/FirstPerson/Blueprints/BP_Rifle
+[2022.04.26-14.37.33:996][152]LogSavePackage: Moving '../../../../UnrealProjects/LifeInColors/Saved/BP_Rifle61164DEA462086C0B41178AEA5567BE7.tmp' to '../../../../UnrealProjects/LifeInColors/Content/UE5/FirstPerson/Blueprints/BP_Rifle.uasset'
+[2022.04.26-14.37.34:015][152]AssetCheck: New page: Asset Save: BP_Rifle
+[2022.04.26-14.37.34:015][152]LogContentValidation: Display: Validating Blueprint /Game/UE5/FirstPerson/Blueprints/BP_Rifle.BP_Rifle
+[2022.04.26-14.37.37:764][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UE5/FirstPerson/Blueprints/BP_Rifle" FILE="../../../../UnrealProjects/LifeInColors/Content/UE5/FirstPerson/Blueprints/BP_Rifle.uasset" SILENT=true
+[2022.04.26-14.37.37:778][546]LogSavePackage: Moving output files for package: /Game/UE5/FirstPerson/Blueprints/BP_Rifle
+[2022.04.26-14.37.37:779][546]LogSavePackage: Moving '../../../../UnrealProjects/LifeInColors/Saved/BP_Rifle56B2B21D4883BF63E6EB27954172D136.tmp' to '../../../../UnrealProjects/LifeInColors/Content/UE5/FirstPerson/Blueprints/BP_Rifle.uasset'
+[2022.04.26-14.37.37:797][546]AssetCheck: New page: Asset Save: BP_Rifle
+[2022.04.26-14.37.37:797][546]LogContentValidation: Display: Validating Blueprint /Game/UE5/FirstPerson/Blueprints/BP_Rifle.BP_Rifle
