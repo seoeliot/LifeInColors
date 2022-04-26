@@ -786,3 +786,175 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.04.26-13.16.29:573][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
 [2022.04.26-13.16.29:593][447]AssetCheck: New page: Asset Save: EnumColor
 [2022.04.26-13.16.29:593][447]LogContentValidation: Display: Validating UserDefinedEnum /Game/MyGame/Data/EnumColor.EnumColor
+[2022.04.26-13.18.04:313][489]Cmd: SELECT NONE
+[2022.04.26-13.18.29:059][ 93]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.04.26-13.18.29:165][ 93]LogContentBrowser: Creating deferred item: NewFolder
+[2022.04.26-13.18.29:179][ 94]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.04.26-13.18.37:150][576]LogContentBrowser: Attempting asset rename: NewFolder -> BP_FirstPerson
+[2022.04.26-13.18.37:150][576]LogContentBrowser: End creating deferred item NewFolder
+[2022.04.26-13.19.15:388][614]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.04.26-13.19.20:484][614]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.04.26-13.19.20:500][614]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.04.26-13.19.20:509][614]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.04.26-13.19.20:535][616]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.04.26-13.19.27:438][ 33]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_FirstPerson
+[2022.04.26-13.19.27:477][ 33]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.04.26-13.19.28:391][ 92]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson.BP_FirstPerson
+[2022.04.26-13.19.28:391][ 92]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.26-13.19.34:049][603]LogEditorTransaction: Undo Paste clipboard contents
+[2022.04.26-13.19.53:863][799]LogSlate: Took 0.079156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.04.26-13.19.54:480][861]LogSlate: Took 0.022517 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.04.26-13.20.39:170][744]BlueprintLog: New page: Compile BP_FirstPerson
+[2022.04.26-13.20.39:176][744]LogBlueprint: Error: [AssetLog] /Game/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson.BP_FirstPerson (no disk path found): [Compiler] Could not find an event-dispatcher named "OnUseItem" in 'BP_FirstPerson_C'.
+Make sure 'BP_FirstPerson_C' has been compiled for  Call OnUseItem
+[2022.04.26-13.20.39:177][744]LogBlueprint: Error: [AssetLog] /Game/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson.BP_FirstPerson (no disk path found): [Compiler] Could not find an event-dispatcher named "OnUseItem" in 'BP_FirstPerson_C'.
+Make sure 'BP_FirstPerson_C' has been compiled for  Call OnUseItem
+[2022.04.26-13.20.39:326][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.04.26-13.20.39:982][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson" FILE="../../../../UnrealProjects/LifeInColors/Content/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson.uasset" SILENT=true
+[2022.04.26-13.20.40:118][788]LogSavePackage: Moving output files for package: /Game/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson
+[2022.04.26-13.20.40:118][788]LogSavePackage: Moving '../../../../UnrealProjects/LifeInColors/Saved/BP_FirstPerson68E49BCC4FB2ABFA8604B6A7FD350054.tmp' to '../../../../UnrealProjects/LifeInColors/Content/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson.uasset'
+[2022.04.26-13.20.40:136][788]AssetCheck: New page: Asset Save: BP_FirstPerson
+[2022.04.26-13.20.40:136][788]LogContentValidation: Display: Validating Blueprint /Game/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson.BP_FirstPerson
+[2022.04.26-13.21.01:902][131]BlueprintLog: New page: Compile BP_FirstPerson
+[2022.04.26-13.21.01:909][131]LogBlueprint: Error: [AssetLog] D:\UnrealProjects\LifeInColors\Content\MyGame\Blueprint\BP_FirstPerson\BP_FirstPerson.uasset: [Compiler] Could not find an event-dispatcher named "OnUseItem" in 'BP_FirstPerson_C'.
+Make sure 'BP_FirstPerson_C' has been compiled for  Call OnUseItem
+[2022.04.26-13.21.01:909][131]LogBlueprint: Error: [AssetLog] D:\UnrealProjects\LifeInColors\Content\MyGame\Blueprint\BP_FirstPerson\BP_FirstPerson.uasset: [Compiler] Could not find an event-dispatcher named "OnUseItem" in 'BP_FirstPerson_C'.
+Make sure 'BP_FirstPerson_C' has been compiled for  Call OnUseItem
+[2022.04.26-13.21.01:984][131]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.04.26-13.21.21:004][279]BlueprintLog: New page: Compile BP_FirstPerson
+[2022.04.26-13.21.21:076][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.04.26-13.21.21:144][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson" FILE="../../../../UnrealProjects/LifeInColors/Content/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson.uasset" SILENT=true
+[2022.04.26-13.21.21:195][279]LogSavePackage: Moving output files for package: /Game/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson
+[2022.04.26-13.21.21:195][279]LogSavePackage: Moving '../../../../UnrealProjects/LifeInColors/Saved/BP_FirstPerson64BA97294695CAB1CB85689B854A05B1.tmp' to '../../../../UnrealProjects/LifeInColors/Content/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson.uasset'
+[2022.04.26-13.21.21:212][279]AssetCheck: New page: Asset Save: BP_FirstPerson
+[2022.04.26-13.21.21:212][279]LogContentValidation: Display: Validating Blueprint /Game/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson.BP_FirstPerson
+[2022.04.26-13.22.07:230][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson" FILE="../../../../UnrealProjects/LifeInColors/Content/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson.uasset" SILENT=true
+[2022.04.26-13.22.07:246][564]LogSavePackage: Moving output files for package: /Game/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson
+[2022.04.26-13.22.07:246][564]LogSavePackage: Moving '../../../../UnrealProjects/LifeInColors/Saved/BP_FirstPerson403B31C244A9AD8348A4279CF1635B82.tmp' to '../../../../UnrealProjects/LifeInColors/Content/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson.uasset'
+[2022.04.26-13.22.07:267][564]AssetCheck: New page: Asset Save: BP_FirstPerson
+[2022.04.26-13.22.07:267][564]LogContentValidation: Display: Validating Blueprint /Game/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson.BP_FirstPerson
+[2022.04.26-13.22.31:183][288]Cmd: DELETE
+[2022.04.26-13.22.31:183][288]Cmd: ACTOR DELETE
+[2022.04.26-13.22.33:189][435]Cmd: TRANSACTION UNDO
+[2022.04.26-13.22.33:190][435]LogEditorTransaction: Undo Delete Elements
+[2022.04.26-13.22.35:568][578]Cmd: DELETE
+[2022.04.26-13.22.35:568][578]Cmd: ACTOR DELETE
+[2022.04.26-13.22.35:727][578]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.26-13.22.35:728][578]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.26-13.22.35:729][578]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.26-13.22.35:729][578]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.26-13.22.35:730][578]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.26-13.22.35:730][578]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.26-13.22.35:731][578]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.26-13.22.35:731][578]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.26-13.22.35:732][578]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.26-13.22.35:732][578]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.26-13.22.35:733][578]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.26-13.22.35:733][578]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.26-13.22.35:734][578]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.26-13.22.35:734][578]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.26-13.22.35:735][578]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.26-13.22.35:735][578]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.26-13.22.35:782][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.04.26-13.22.35:784][578]LogEditorActor: Deleted 16 Actors (0.216 secs)
+[2022.04.26-13.22.36:479][633]Cmd: DELETE
+[2022.04.26-13.22.36:479][633]Cmd: ACTOR DELETE
+[2022.04.26-13.22.54:106][794]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson.BP_FirstPerson_C
+[2022.04.26-13.22.54:129][794]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson.BP_FirstPerson_C
+[2022.04.26-13.22.54:140][794]LogActorFactory: Actor Factory spawned Blueprint /Game/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson.BP_FirstPerson as actor: BP_FirstPerson_C /Game/UE5/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_FirstPerson_C_0
+[2022.04.26-13.22.54:140][794]LogActorFactory: Actor Factory spawned Blueprint /Game/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson.BP_FirstPerson as actor: BP_FirstPerson_C /Game/UE5/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_FirstPerson_C_0
+[2022.04.26-13.22.54:603][830]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson.BP_FirstPerson_C
+[2022.04.26-13.22.54:603][830]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson.BP_FirstPerson_C
+[2022.04.26-13.22.54:636][830]LogActorFactory: Actor Factory spawned Blueprint /Game/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson.BP_FirstPerson as actor: BP_FirstPerson_C /Game/UE5/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_FirstPerson_C_UAID_D8CB8AF69DE21E0A01_1112843999
+[2022.04.26-13.22.54:636][830]LogActorFactory: Actor Factory spawned Blueprint /Game/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson.BP_FirstPerson as actor: BP_FirstPerson_C /Game/UE5/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_FirstPerson_C_UAID_D8CB8AF69DE21E0A01_1112843999
+[2022.04.26-13.22.54:886][830]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.04.26-13.23.05:526][475]Cmd: DELETE
+[2022.04.26-13.23.05:526][475]Cmd: ACTOR DELETE
+[2022.04.26-13.23.05:540][475]LogEditorActor: Deleted Actor: BP_FirstPerson_C
+[2022.04.26-13.23.05:587][475]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.04.26-13.23.05:589][475]LogEditorActor: Deleted 1 Actors (0.063 secs)
+[2022.04.26-13.23.43:427][939]Cmd: DELETE
+[2022.04.26-13.23.43:427][939]Cmd: ACTOR DELETE
+[2022.04.26-13.23.43:429][939]LogEditorActor: Deleted Actor: PlayerStart
+[2022.04.26-13.23.43:474][939]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.04.26-13.23.43:477][939]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2022.04.26-13.23.43:910][959]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson.BP_FirstPerson_C
+[2022.04.26-13.23.43:911][959]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson.BP_FirstPerson_C
+[2022.04.26-13.23.43:911][959]LogActorFactory: Actor Factory spawned Blueprint /Game/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson.BP_FirstPerson as actor: BP_FirstPerson_C /Game/UE5/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_FirstPerson_C_1
+[2022.04.26-13.23.43:912][959]LogActorFactory: Actor Factory spawned Blueprint /Game/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson.BP_FirstPerson as actor: BP_FirstPerson_C /Game/UE5/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_FirstPerson_C_1
+[2022.04.26-13.23.44:480][998]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson.BP_FirstPerson_C
+[2022.04.26-13.23.44:480][998]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson.BP_FirstPerson_C
+[2022.04.26-13.23.44:483][998]LogActorFactory: Actor Factory spawned Blueprint /Game/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson.BP_FirstPerson as actor: BP_FirstPerson_C /Game/UE5/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_FirstPerson_C_UAID_D8CB8AF69DE21E0A01_1162721000
+[2022.04.26-13.23.44:484][998]LogActorFactory: Actor Factory spawned Blueprint /Game/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson.BP_FirstPerson as actor: BP_FirstPerson_C /Game/UE5/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_FirstPerson_C_UAID_D8CB8AF69DE21E0A01_1162721000
+[2022.04.26-13.23.44:555][998]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.04.26-13.23.46:867][145]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.04.26-13.23.46:943][145]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.04.26-13.23.48:912][145]LogSlate: Window 'Save Content' being destroyed
+[2022.04.26-13.23.49:283][145]LogWorldPartition: Warning: Actor /Game/UE5/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_FirstPerson_C_UAID_D8CB8AF69DE21E0A01_1112843999 is unreachable without properly detaching object /Game/__ExternalActors__/UE5/FirstPerson/Maps/FirstPersonMap/B/62/BAY4O9DVF8864KF9VMQD2O.PackageMetaData in its package
+[2022.04.26-13.23.49:287][145]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.04.26-13.23.49:333][145]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.04.26-13.23.49:377][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.04.26-13.23.49:384][145]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/UE5/FirstPerson/Maps/FirstPersonMap/4/TP/6HJAIMB80RMKQOVELIW0HR
+[2022.04.26-13.23.49:385][145]LogSavePackage: Moving '../../../../UnrealProjects/LifeInColors/Saved/6HJAIMB80RMKQOVELIW0HRC43DCF11418AF81E0547CFABD8FE5160.tmp' to '../../../../UnrealProjects/LifeInColors/Content/__ExternalObjects__/UE5/FirstPerson/Maps/FirstPersonMap/4/TP/6HJAIMB80RMKQOVELIW0HR.uasset'
+[2022.04.26-13.23.49:387][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/UE5/FirstPerson/Maps/FirstPersonMap/8/GW/O6MZOIU88ZQLX1MCDA8GFZ
+[2022.04.26-13.23.49:387][145]LogSavePackage: Moving '../../../../UnrealProjects/LifeInColors/Saved/O6MZOIU88ZQLX1MCDA8GFZFE698032451819248A66A8BD3F633CC8.tmp' to '../../../../UnrealProjects/LifeInColors/Content/__ExternalActors__/UE5/FirstPerson/Maps/FirstPersonMap/8/GW/O6MZOIU88ZQLX1MCDA8GFZ.uasset'
+[2022.04.26-13.23.49:442][146]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.26-13.23.49:442][146]LogContentValidation: Display: Validating ActorFolder /Game/UE5/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ActorFolder_UID_9AEEADCB-4DC6C647-D6E7C0B4-EDA1744F
+[2022.04.26-13.23.49:442][146]LogContentValidation: Display: Validating BP_FirstPerson_C /Game/UE5/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_FirstPerson_C_UAID_D8CB8AF69DE21E0A01_1162721000
+[2022.04.26-13.23.50:690][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.04.26-13.24.33:493][773]LogSlate: Took 0.000359 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.04.26-13.26.23:222][947]Cmd: DELETE
+[2022.04.26-13.26.23:222][947]Cmd: ACTOR DELETE
+[2022.04.26-13.26.23:223][947]LogEditorActor: Deleted Actor: BP_Rifle_C
+[2022.04.26-13.26.23:272][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.04.26-13.26.23:275][947]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2022.04.26-13.26.39:244][683]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/UE5/FirstPerson/Blueprints/BP_Rifle.BP_Rifle
+[2022.04.26-13.26.39:244][683]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.26-13.27.26:997][982]LogEditorTransaction: Undo Modify Component(s)
+[2022.04.26-13.27.41:479][539]LogEditorTransaction: Undo Paste Component(s)
+[2022.04.26-13.27.46:033][923]LogEditorTransaction: Undo Detach Component
+[2022.04.26-13.27.47:070][983]LogEditorTransaction: Undo Attach Component
+[2022.04.26-13.27.49:599][217]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.04.26-13.27.51:506][397]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.04.26-13.27.53:395][573]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.04.26-13.28.04:220][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson" FILE="../../../../UnrealProjects/LifeInColors/Content/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson.uasset" SILENT=true
+[2022.04.26-13.28.04:269][703]LogSavePackage: Moving output files for package: /Game/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson
+[2022.04.26-13.28.04:270][703]LogSavePackage: Moving '../../../../UnrealProjects/LifeInColors/Saved/BP_FirstPerson14A732AA441075DEBB220F8EABC7866E.tmp' to '../../../../UnrealProjects/LifeInColors/Content/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson.uasset'
+[2022.04.26-13.28.04:303][703]AssetCheck: New page: Asset Save: BP_FirstPerson
+[2022.04.26-13.28.04:303][703]LogContentValidation: Display: Validating Blueprint /Game/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson.BP_FirstPerson
+[2022.04.26-13.28.06:203][899]BlueprintLog: New page: Compile BP_FirstPerson
+[2022.04.26-13.28.06:296][899]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.04.26-13.28.07:745][ 28]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-13.28.07:745][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-13.34.25:780][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.04.26-13.34.25:809][657]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/UE5/FirstPerson/Maps/FirstPersonMap/5/XP/SSR5JAR8QUTPGB6PRUJ50O_Auto1
+[2022.04.26-13.34.25:809][657]LogSavePackage: Moving '../../../../UnrealProjects/LifeInColors/Saved/SSR5JAR8QUTPGB6PRUJ50O_Auto1C14E643D437C36C93E4FB5A5C8E86128.tmp' to '../../../../UnrealProjects/LifeInColors/Saved/Autosaves/Game/__ExternalActors__/UE5/FirstPerson/Maps/FirstPersonMap/5/XP/SSR5JAR8QUTPGB6PRUJ50O_Auto1.uasset'
+[2022.04.26-13.34.25:813][657]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/UE5/FirstPerson/Maps/FirstPersonMap/8/GW/O6MZOIU88ZQLX1MCDA8GFZ_Auto1
+[2022.04.26-13.34.25:813][657]LogSavePackage: Moving '../../../../UnrealProjects/LifeInColors/Saved/O6MZOIU88ZQLX1MCDA8GFZ_Auto1E6A50C08464C977179D948AB8C9DCEBF.tmp' to '../../../../UnrealProjects/LifeInColors/Saved/Autosaves/Game/__ExternalActors__/UE5/FirstPerson/Maps/FirstPersonMap/8/GW/O6MZOIU88ZQLX1MCDA8GFZ_Auto1.uasset'
+[2022.04.26-13.34.25:818][657]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/UE5/FirstPerson/Maps/FirstPersonMap' took 0.092
+[2022.04.26-13.34.25:818][657]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.092
+[2022.04.26-13.44.26:265][446]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.04.26-13.44.26:267][446]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/UE5/FirstPerson/Maps/FirstPersonMap' took 0.049
+[2022.04.26-13.54.26:775][235]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.04.26-13.54.26:777][235]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/UE5/FirstPerson/Maps/FirstPersonMap' took 0.055
+[2022.04.26-14.04.27:323][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.04.26-14.04.27:324][ 25]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/UE5/FirstPerson/Maps/FirstPersonMap' took 0.058
+[2022.04.26-14.05.58:208][297]LogDerivedDataCache: C:/Users/reape/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.080 and deleted 0 file(s) with total size 0 MiB.
+[2022.04.26-14.14.27:846][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.04.26-14.14.27:847][815]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/UE5/FirstPerson/Maps/FirstPersonMap' took 0.056
+[2022.04.26-14.24.28:272][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.04.26-14.24.28:273][605]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/UE5/FirstPerson/Maps/FirstPersonMap' took 0.055
+[2022.04.26-14.34.07:694][150]LogSlate: Window 'Change Variable Type' being destroyed
+[2022.04.26-14.34.13:394][781]LogSlate: Window 'Find in Blueprints' being destroyed
+[2022.04.26-14.34.13:405][781]LogSlate: Window 'Find in Blueprints' being destroyed
+[2022.04.26-14.34.38:511][478]LogEditorTransaction: Undo Break Pin Links
+[2022.04.26-14.36.00:233][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UE5/FirstPerson/Blueprints/BP_Rifle" FILE="../../../../UnrealProjects/LifeInColors/Content/UE5/FirstPerson/Blueprints/BP_Rifle.uasset" SILENT=true
+[2022.04.26-14.36.00:256][383]LogSavePackage: Moving output files for package: /Game/UE5/FirstPerson/Blueprints/BP_Rifle
+[2022.04.26-14.36.00:257][383]LogSavePackage: Moving '../../../../UnrealProjects/LifeInColors/Saved/BP_Rifle647A238E4257A530CFA86DA73208DE24.tmp' to '../../../../UnrealProjects/LifeInColors/Content/UE5/FirstPerson/Blueprints/BP_Rifle.uasset'
+[2022.04.26-14.36.00:276][383]AssetCheck: New page: Asset Save: BP_Rifle
+[2022.04.26-14.36.00:276][383]LogContentValidation: Display: Validating Blueprint /Game/UE5/FirstPerson/Blueprints/BP_Rifle.BP_Rifle
+[2022.04.26-14.36.09:220][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UE5/FirstPerson/Blueprints/BP_Rifle" FILE="../../../../UnrealProjects/LifeInColors/Content/UE5/FirstPerson/Blueprints/BP_Rifle.uasset" SILENT=true
+[2022.04.26-14.36.09:234][401]LogSavePackage: Moving output files for package: /Game/UE5/FirstPerson/Blueprints/BP_Rifle
+[2022.04.26-14.36.09:235][401]LogSavePackage: Moving '../../../../UnrealProjects/LifeInColors/Saved/BP_Rifle6BFF953A4A87758B9426B5895E2D11E2.tmp' to '../../../../UnrealProjects/LifeInColors/Content/UE5/FirstPerson/Blueprints/BP_Rifle.uasset'
+[2022.04.26-14.36.09:253][401]AssetCheck: New page: Asset Save: BP_Rifle
+[2022.04.26-14.36.09:253][401]LogContentValidation: Display: Validating Blueprint /Game/UE5/FirstPerson/Blueprints/BP_Rifle.BP_Rifle
