@@ -1054,3 +1054,9 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.05.07-14.11.42:805][116]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
 [2022.05.07-14.11.42:814][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
 [2022.05.07-14.11.42:920][117]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.05.07-14.12.11:942][231]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.05.07-14.12.11:945][231]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGame/LD/Sandbox" FILE="../../../../UnrealProjects/LifeInColors/Saved/Autosaves/Game/MyGame/LD/Sandbox_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.05.07-14.12.11:955][231]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyGame/LD/Sandbox_Auto1
+[2022.05.07-14.12.11:956][231]LogSavePackage: Moving '../../../../UnrealProjects/LifeInColors/Saved/Sandbox_Auto1A6DC5F244546BE4F58F849A8C0AE53DB.tmp' to '../../../../UnrealProjects/LifeInColors/Saved/Autosaves/Game/MyGame/LD/Sandbox_Auto1.umap'
+[2022.05.07-14.12.11:965][231]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MyGame/LD/Sandbox' took 0.056
+[2022.05.07-14.12.11:965][231]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.056
