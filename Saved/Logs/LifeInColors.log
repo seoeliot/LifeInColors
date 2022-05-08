@@ -16618,3 +16618,72 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.05.08-01.47.58:268][830]LogSavePackage: Moving '../../../../UnrealProjects/LifeInColors/Saved/Sandbox447C5CD64D2BDB1433EA66893537E972.tmp' to '../../../../UnrealProjects/LifeInColors/Content/MyGame/LD/Sandbox.umap'
 [2022.05.08-01.47.58:312][830]AssetCheck: New page: Asset Save: Sandbox
 [2022.05.08-01.47.58:312][830]LogContentValidation: Display: Validating World /Game/MyGame/LD/Sandbox.Sandbox
+[2022.05.08-01.50.19:912][470]LogEditorViewport: Clicking Background
+[2022.05.08-01.50.20:400][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGame/LD/Sandbox" FILE="../../../../UnrealProjects/LifeInColors/Content/MyGame/LD/Sandbox.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.08-01.50.20:457][491]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.05.08-01.50.20:466][491]LogSavePackage: Moving output files for package: /Game/MyGame/LD/Sandbox
+[2022.05.08-01.50.20:467][491]LogSavePackage: Moving '../../../../UnrealProjects/LifeInColors/Saved/Sandbox6BA9E77D4019455162C00BA79031D532.tmp' to '../../../../UnrealProjects/LifeInColors/Content/MyGame/LD/Sandbox.umap'
+[2022.05.08-01.50.20:511][491]AssetCheck: New page: Asset Save: Sandbox
+[2022.05.08-01.50.20:511][491]LogContentValidation: Display: Validating World /Game/MyGame/LD/Sandbox.Sandbox
+[2022.05.08-01.50.21:725][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.05.08-01.50.21:748][571]LogStall: Shutdown...
+[2022.05.08-01.50.21:773][571]LogStall: Shutdown complete.
+[2022.05.08-01.50.21:832][571]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.05.08-01.50.21:833][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.08-01.50.22:153][571]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.05.08-01.50.22:153][571]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.05.08-01.50.22:153][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.08-01.50.22:365][571]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.05.08-01.50.22:365][571]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.05.08-01.50.22:365][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.08-01.50.22:599][571]LogSlate: Window 'LifeInColors - Unreal Editor' being destroyed
+[2022.05.08-01.50.23:208][572]Cmd: QUIT_EDITOR
+[2022.05.08-01.50.23:208][572]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.05.08-01.50.23:353][572]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.05.08-01.50.23:404][572]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2022.05.08-01.50.23:406][572]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2022.05.08-01.50.24:302][572]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.05.08-01.50.24:302][572]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.05.08-01.50.24:302][572]LogAudio: Display: Audio Device unregistered from world 'Sandbox'.
+[2022.05.08-01.50.24:302][572]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.05.08-01.50.24:306][572]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.05.08-01.50.24:348][572]LogAudio: Display: Audio Device Manager Shutdown
+[2022.05.08-01.50.24:486][572]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.05.08-01.50.24:527][572]LogExit: Preparing to exit.
+[2022.05.08-01.50.25:111][572]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.05.08-01.50.25:128][572]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.05.08-01.50.25:129][572]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.05.08-01.50.25:151][572]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.05.08-01.50.25:151][572]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.05.08-01.50.25:151][572]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.05.08-01.50.25:151][572]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.05.08-01.50.25:151][572]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.05.08-01.50.25:151][572]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.05.08-01.50.25:152][572]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.05.08-01.50.25:152][572]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.05.08-01.50.25:152][572]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.05.08-01.50.26:397][572]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.05.08-01.50.26:401][572]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.05.08-01.50.26:407][572]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.05.08-01.50.26:413][572]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.05.08-01.50.26:418][572]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.05.08-01.50.26:423][572]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.05.08-01.50.26:428][572]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.05.08-01.50.26:681][572]LogWorld: UWorld::CleanupWorld for Sandbox, bSessionEnded=true, bCleanupResources=true
+[2022.05.08-01.50.28:023][572]LogStylusInput: Shutting down StylusInput subsystem.
+[2022.05.08-01.50.28:076][572]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2022.05.08-01.50.28:251][572]LogExit: Editor shut down
+[2022.05.08-01.50.28:256][572]LogExit: Transaction tracking system shut down
+[2022.05.08-01.50.28:454][572]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.05.08-01.50.34:632][572]LogExit: Object subsystem successfully closed.
+[2022.05.08-01.50.34:661][572]LogShaderCompilers: Display: ================================================
+[2022.05.08-01.50.34:664][572]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.08-01.50.34:664][572]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.05.08-01.50.34:664][572]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.05.08-01.50.34:683][572]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.05.08-01.50.34:684][572]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.05.08-01.50.34:684][572]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.05.08-01.50.34:684][572]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.05.08-01.50.34:684][572]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.05.08-01.50.34:684][572]LogShaderCompilers: Display: ================================================
+[2022.05.08-01.50.34:856][572]LogShaderCompilers: Display: Shaders left to compile 0
