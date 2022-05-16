@@ -42673,3 +42673,81 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.05.16-12.13.07:713][ 57]LogSavePackage: Moving '../../../../Unreal/lifeInColors/Saved/Sandbox2FB42CDC418D9824C95484A905DFC7AB.tmp' to '../../../../Unreal/lifeInColors/Content/MyGame/LD/Sandbox.umap'
 [2022.05.16-12.13.07:752][ 57]AssetCheck: New page: Asset Save: Sandbox
 [2022.05.16-12.13.07:752][ 57]LogContentValidation: Display: Validating World /Game/MyGame/LD/Sandbox.Sandbox
+[2022.05.16-12.14.37:956][719]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.05.16-12.14.38:235][719]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.05.16-12.15.24:928][220]LogEditorViewport: Clicking Background
+[2022.05.16-12.15.28:608][592]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson.BP_FirstPerson
+[2022.05.16-12.15.28:608][592]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.16-12.15.50:868][786]BlueprintLog: New page: Compile BP_FirstPerson
+[2022.05.16-12.15.50:993][786]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.05.16-12.15.51:006][786]LogScript: Warning: Accessed None trying to read property ColorgunReference
+	BP_FirstPerson_C /Engine/Transient.World_10:PersistentLevel.BP_FirstPerson_C_0
+	Function /Game/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson.BP_FirstPerson_C:ExecuteUbergraph_BP_FirstPerson:0F18
+[2022.05.16-12.15.51:119][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson" FILE="../../../../Unreal/lifeInColors/Content/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson.uasset" SILENT=true
+[2022.05.16-12.15.51:155][786]LogSavePackage: Moving output files for package: /Game/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson
+[2022.05.16-12.15.51:156][786]LogSavePackage: Moving '../../../../Unreal/lifeInColors/Saved/BP_FirstPersonEFB723BE4200FDF7442676ABF5DF844D.tmp' to '../../../../Unreal/lifeInColors/Content/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson.uasset'
+[2022.05.16-12.15.51:170][786]AssetCheck: New page: Asset Save: BP_FirstPerson
+[2022.05.16-12.15.51:170][786]LogContentValidation: Display: Validating Blueprint /Game/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson.BP_FirstPerson
+[2022.05.16-12.15.51:464][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson" FILE="../../../../Unreal/lifeInColors/Content/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson.uasset" SILENT=true
+[2022.05.16-12.15.51:499][804]LogSavePackage: Moving output files for package: /Game/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson
+[2022.05.16-12.15.51:500][804]LogSavePackage: Moving '../../../../Unreal/lifeInColors/Saved/BP_FirstPersonF000AACC4358AF3B5786A2B52C075A64.tmp' to '../../../../Unreal/lifeInColors/Content/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson.uasset'
+[2022.05.16-12.15.51:514][804]AssetCheck: New page: Asset Save: BP_FirstPerson
+[2022.05.16-12.15.51:514][804]LogContentValidation: Display: Validating Blueprint /Game/MyGame/Blueprint/BP_FirstPerson/BP_FirstPerson.BP_FirstPerson
+[2022.05.16-12.15.52:699][919]LogEditorViewport: Clicking Background
+[2022.05.16-12.15.52:848][930]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGame/LD/Sandbox" FILE="../../../../Unreal/lifeInColors/Content/MyGame/LD/Sandbox.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.16-12.15.52:910][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.05.16-12.15.52:924][930]LogSavePackage: Moving output files for package: /Game/MyGame/LD/Sandbox
+[2022.05.16-12.15.52:925][930]LogSavePackage: Moving '../../../../Unreal/lifeInColors/Saved/SandboxD8E4F3954C2FC909056D459170D0AD14.tmp' to '../../../../Unreal/lifeInColors/Content/MyGame/LD/Sandbox.umap'
+[2022.05.16-12.15.52:968][930]AssetCheck: New page: Asset Save: Sandbox
+[2022.05.16-12.15.52:968][930]LogContentValidation: Display: Validating World /Game/MyGame/LD/Sandbox.Sandbox
+[2022.05.16-12.15.53:256][961]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.05.16-12.15.53:271][961]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.16-12.15.53:271][961]PIE: New page: PIE session: Sandbox (16 mai 2022 à 16:15:53)
+[2022.05.16-12.15.53:271][961]LogPlayLevel: Creating play world package: /Game/MyGame/LD/UEDPIE_0_Sandbox
+[2022.05.16-12.15.53:274][961]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002914s)
+[2022.05.16-12.15.53:274][961]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame/LD/Sandbox.Sandbox to /Game/MyGame/LD/UEDPIE_0_Sandbox.Sandbox (0.002984s)
+[2022.05.16-12.15.53:274][961]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.16-12.15.53:274][961]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.16-12.15.53:274][961]LogAIModule: Creating AISystem for world Sandbox
+[2022.05.16-12.15.53:275][961]LogPlayLevel: PIE: World Init took: (0.000647s)
+[2022.05.16-12.15.53:321][961]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.05.16-12.15.53:322][961]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.05.16-12.15.53:322][961]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.16-12.15.53:322][961]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.16-12.15.53:322][961]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.16-12.15.53:322][961]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.16-12.15.53:322][961]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.16-12.15.53:322][961]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.16-12.15.53:322][961]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.16-12.15.53:322][961]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.16-12.15.53:323][961]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.16-12.15.53:323][961]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.16-12.15.53:323][961]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.16-12.15.53:325][961]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.16-12.15.53:342][961]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Synaptics HD Audio)
+[2022.05.16-12.15.53:342][961]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.16-12.15.53:342][961]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.16-12.15.53:342][961]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.16-12.15.53:343][961]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2022.05.16-12.15.53:343][961]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2022.05.16-12.15.53:344][961]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2022.05.16-12.15.53:344][961]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2022.05.16-12.15.53:344][961]LogInit: FAudioDevice initialized.
+[2022.05.16-12.15.53:344][961]LogAudio: Display: Audio Device (ID: 10) registered with world 'Sandbox'.
+[2022.05.16-12.15.53:353][961]LogLoad: Game class is 'GM_InGame_C'
+[2022.05.16-12.15.53:354][961]LogWorld: Bringing World /Game/MyGame/LD/UEDPIE_0_Sandbox.Sandbox up for play (max tick rate 0) at 2022.05.16-14.15.53
+[2022.05.16-12.15.53:355][961]LogWorld: Bringing up level for play took: 0.001568
+[2022.05.16-12.15.53:356][961]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2022.05.16-12.15.53:357][961]PIE: Server logged in
+[2022.05.16-12.15.53:358][961]PIE: Play in editor total start time 0,087 seconds.
+[2022.05.16-12.15.54:668][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.16-12.15.54:668][103]LogWorld: BeginTearingDown for /Game/MyGame/LD/UEDPIE_0_Sandbox
+[2022.05.16-12.15.54:668][103]LogWorld: UWorld::CleanupWorld for Sandbox, bSessionEnded=true, bCleanupResources=true
+[2022.05.16-12.15.54:668][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.16-12.15.54:684][103]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.16-12.15.54:689][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.16-12.15.54:730][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.16-12.15.54:731][103]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2022.05.16-12.15.54:732][103]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2022.05.16-12.15.54:737][103]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.05.16-12.15.54:800][104]LogPlayLevel: Display: Destroying online subsystem :Context_22
