@@ -829,3 +829,16 @@ Recommended: 511.79
 [2022.05.16-12.10.35:677][319]LogFileHelpers: Saving map 'testdontopen' took 0.059
 [2022.05.16-12.10.35:687][319]AssetCheck: New page: Asset Save: testdontopen
 [2022.05.16-12.10.35:687][319]LogContentValidation: Display: Validating World /Game/MyGame/LD/testdontopen.testdontopen
+[2022.05.16-12.15.36:713][668]LogEditorViewport: Clicking Background
+[2022.05.16-12.15.41:398][176]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2022.05.16-12.15.41:398][176]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2022.05.16-12.15.41:398][176]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/MyGame/LD/testdontopen.testdontopen:PersistentLevel.StaticMeshActor_1
+[2022.05.16-12.15.41:399][176]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/MyGame/LD/testdontopen.testdontopen:PersistentLevel.StaticMeshActor_1
+[2022.05.16-12.15.41:965][205]LogEditorViewport: Clicking Background
+[2022.05.16-12.15.46:616][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGame/LD/testdontopen" FILE="../../../../UnrealProject/LifeInColors/Content/MyGame/LD/testdontopen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.16-12.15.46:624][735]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.05.16-12.15.46:629][735]LogSavePackage: Moving output files for package: /Game/MyGame/LD/testdontopen
+[2022.05.16-12.15.46:630][735]LogSavePackage: Moving '../../../../UnrealProject/LifeInColors/Saved/testdontopen86FB9A6A47B376746C5F79B0645EEB2C.tmp' to '../../../../UnrealProject/LifeInColors/Content/MyGame/LD/testdontopen.umap'
+[2022.05.16-12.15.46:665][735]AssetCheck: New page: Asset Save: testdontopen
+[2022.05.16-12.15.46:665][735]LogContentValidation: Display: Validating World /Game/MyGame/LD/testdontopen.testdontopen
+[2022.05.16-12.15.49:850][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
