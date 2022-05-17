@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿Log file open, 05/17/22 12:03:13
+=======
+﻿Log file open, 05/17/22 16:07:42
+>>>>>>> main
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
@@ -6,7 +10,11 @@ LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi.dll' does not exist
 LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
+<<<<<<< HEAD
 LogWindows: Started CrashReportClient (pid=14240)
+=======
+LogWindows: Started CrashReportClient (pid=17556)
+>>>>>>> main
 LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
 LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
 LogInit: Display: Running engine for game: LifeInColors
@@ -15,13 +23,18 @@ LogCsvProfiler: Display: Metadata set : platform="Windows"
 LogCsvProfiler: Display: Metadata set : config="Development"
 LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-19764885"
 LogCsvProfiler: Display: Metadata set : engineversion="5.0.1-19764885+++UE5+Release-5.0"
+<<<<<<< HEAD
 LogCsvProfiler: Display: Metadata set : commandline="" ../../../../Unreal/lifeInColors/LifeInColors.uproject /Game/MyGame/LD/Sandbox -game -PIEVIACONSOLE -Multiprocess GameUserSettingsINI=PIEGameUserSettings0 -MultiprocessSaveConfig -forcepassthrough -messaging -SessionName="Play in Standalone Game" -windowed -WinX=1976 -WinY=238 SAVEWINPOS=1 -ResX=1280 -ResY=720""
+=======
+LogCsvProfiler: Display: Metadata set : commandline="" ../../../../../../Unreal/Synaesthesia/LifeInColors/LifeInColors.uproject /Game/UE5/FirstPerson/Maps/FirstPersonMap -game -PIEVIACONSOLE -Multiprocess GameUserSettingsINI=PIEGameUserSettings0 -MultiprocessSaveConfig -forcepassthrough -messaging -SessionName="Play in Standalone Game" -featureleveles31 -faketouches -MultiprocessSaveConfig -windowed -WinX=1976 -WinY=238 SAVEWINPOS=1 -ResX=1280 -ResY=720""
+>>>>>>> main
 LogCsvProfiler: Display: Metadata set : os="Windows 10 (20H2) "
 LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i5-9500 CPU @ 3.00GHz"
 LogCsvProfiler: Display: Metadata set : pgoenabled="0"
 LogCsvProfiler: Display: Metadata set : loginid="3de5eaba4040724a2459eaac125bdc80"
 LogCsvProfiler: Display: Metadata set : llm="0"
 LogPlatformFile: Not using cached read wrapper
+<<<<<<< HEAD
 LogStats: Stats thread started at 0.325794
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
 LogInit: Session CrashGUID >====================================================
@@ -42,6 +55,27 @@ LogPluginManager: Mounting Engine plugin FastBuildController
 LogPluginManager: Mounting Engine plugin MeshPainting
 LogPluginManager: Mounting Engine plugin XGEController
 LogPluginManager: Mounting Engine plugin Paper2D
+=======
+LogStats: Stats thread started at 0.275965
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-1E59D39E47C9EFAB208ACEB1FD62CFE8
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading HoloLens ini files took 0.02 seconds
+LogConfig: Display: Loading Android ini files took 0.02 seconds
+LogConfig: Display: Loading IOS ini files took 0.02 seconds
+LogConfig: Display: Loading Mac ini files took 0.02 seconds
+LogConfig: Display: Loading Linux ini files took 0.03 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.03 seconds
+LogConfig: Display: Loading TVOS ini files took 0.02 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading Unix ini files took 0.02 seconds
+LogConfig: Display: Loading Windows ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin FastBuildController
+>>>>>>> main
 LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
 LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
 LogPluginManager: Mounting Engine plugin ControlRig
@@ -49,14 +83,19 @@ LogPluginManager: Mounting Engine plugin ControlRigSpline
 LogPluginManager: Mounting Engine plugin IKRig
 LogPluginManager: Mounting Engine plugin AISupport
 LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+<<<<<<< HEAD
 LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+=======
+>>>>>>> main
 LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
 LogPluginManager: Mounting Engine plugin OodleNetwork
 LogPluginManager: Mounting Engine plugin AnimationSharing
 LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
 LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
 LogPluginManager: Mounting Engine plugin GitSourceControl
 LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+<<<<<<< HEAD
 LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
 LogPluginManager: Mounting Engine plugin PixWinPlugin
 LogPluginManager: Mounting Engine plugin PlasticSourceControl
@@ -772,3 +811,7 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.05.17-10.04.14:485][395]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (336)
 [2022.05.17-10.04.14:485][395]LogModuleManager: Shutting down and abandoning module ActorSequence (334)
 [2022.05.17-10.04.14:485][395]LogModuleManager: Shutting down and abandoning module UdpMessaging (332)
+=======
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+>>>>>>> main
