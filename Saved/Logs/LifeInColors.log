@@ -1096,3 +1096,174 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.05.17-14.12.29:316][401]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
 [2022.05.17-14.12.29:324][401]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
 [2022.05.17-14.12.29:379][402]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.05.17-14.13.04:999][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.05.17-14.13.05:266][132]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MyGame/LD/Hub.Hub
+[2022.05.17-14.13.05:266][132]Cmd: MAP LOAD FILE="../../../../../../Unreal/Synaesthesia/LifeInColors/Content/MyGame/LD/Hub.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.17-14.13.05:266][132]LightingResults: New page: Lighting Build
+[2022.05.17-14.13.05:266][132]LoadErrors: New page: Loading map: Hub.umap
+[2022.05.17-14.13.05:270][132]LogWorld: UWorld::CleanupWorld for Level_1Retour, bSessionEnded=true, bCleanupResources=true
+[2022.05.17-14.13.05:270][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.17-14.13.05:270][132]MapCheck: New page: Map Check
+[2022.05.17-14.13.05:270][132]LightingResults: New page: Lighting Build
+[2022.05.17-14.13.05:305][132]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.17-14.13.05:310][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.05.17-14.13.05:311][132]LogShaderCompilers: Display: ================================================
+[2022.05.17-14.13.05:311][132]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.17-14.13.05:311][132]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.05.17-14.13.05:311][132]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.05.17-14.13.05:311][132]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.05.17-14.13.05:311][132]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.05.17-14.13.05:311][132]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.05.17-14.13.05:311][132]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.05.17-14.13.05:311][132]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.05.17-14.13.05:311][132]LogShaderCompilers: Display: ================================================
+[2022.05.17-14.13.05:398][132]LogWorld: UWorld::CleanupWorld for Hub, bSessionEnded=true, bCleanupResources=true
+[2022.05.17-14.13.05:398][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.17-14.13.05:437][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.05.17-14.13.05:471][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.05.17-14.13.05:492][132]LogAudio: Display: Audio Device (ID: 1) registered with world 'Hub'.
+[2022.05.17-14.13.05:492][132]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.17-14.13.05:492][132]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.17-14.13.05:492][132]LogAIModule: Creating AISystem for world Hub
+[2022.05.17-14.13.05:510][132]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/MyGame/LD/Hub_Dialogue) is flushing async loading
+[2022.05.17-14.13.05:510][132]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.05.17-14.13.05:513][132]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.17-14.13.05:551][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.05.17-14.13.05:596][132]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.17-14.13.05:596][132]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,141ms to complete.
+[2022.05.17-14.13.05:596][132]LogFileHelpers: Loading map 'Hub' took 0.330
+[2022.05.17-14.13.08:863][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.05.17-14.13.08:864][435]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MyGame/LD/Hub_Dialogue.Hub_Dialogue
+[2022.05.17-14.13.08:864][435]Cmd: MAP LOAD FILE="../../../../../../Unreal/Synaesthesia/LifeInColors/Content/MyGame/LD/Hub_Dialogue.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.17-14.13.08:864][435]LightingResults: New page: Lighting Build
+[2022.05.17-14.13.08:864][435]LoadErrors: New page: Loading map: Hub_Dialogue.umap
+[2022.05.17-14.13.08:919][435]LogWorld: UWorld::CleanupWorld for Hub, bSessionEnded=true, bCleanupResources=true
+[2022.05.17-14.13.08:919][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.17-14.13.08:919][435]LogWorld: UWorld::CleanupWorld for Hub_Dialogue, bSessionEnded=true, bCleanupResources=true
+[2022.05.17-14.13.08:919][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.17-14.13.08:919][435]MapCheck: New page: Map Check
+[2022.05.17-14.13.08:919][435]LightingResults: New page: Lighting Build
+[2022.05.17-14.13.08:957][435]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.17-14.13.08:964][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.05.17-14.13.08:965][435]LogAudio: Display: Audio Device (ID: 1) registered with world 'Hub_Dialogue'.
+[2022.05.17-14.13.08:965][435]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.17-14.13.08:965][435]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.17-14.13.08:965][435]LogAIModule: Creating AISystem for world Hub_Dialogue
+[2022.05.17-14.13.08:967][435]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.17-14.13.09:000][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.05.17-14.13.09:075][435]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.17-14.13.09:075][435]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,08ms to complete.
+[2022.05.17-14.13.09:075][435]LogFileHelpers: Loading map 'Hub_Dialogue' took 0.211
+[2022.05.17-14.13.09:153][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.05.17-14.13.10:314][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.05.17-14.13.10:377][566]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MyGame/LD/Hub.Hub
+[2022.05.17-14.13.10:377][566]Cmd: MAP LOAD FILE="../../../../../../Unreal/Synaesthesia/LifeInColors/Content/MyGame/LD/Hub.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.17-14.13.10:377][566]LightingResults: New page: Lighting Build
+[2022.05.17-14.13.10:377][566]LoadErrors: New page: Loading map: Hub.umap
+[2022.05.17-14.13.10:406][566]LogWorld: UWorld::CleanupWorld for Hub_Dialogue, bSessionEnded=true, bCleanupResources=true
+[2022.05.17-14.13.10:406][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.17-14.13.10:406][566]MapCheck: New page: Map Check
+[2022.05.17-14.13.10:406][566]LightingResults: New page: Lighting Build
+[2022.05.17-14.13.10:438][566]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.17-14.13.10:440][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.05.17-14.13.10:441][566]LogWorld: UWorld::CleanupWorld for Hub, bSessionEnded=true, bCleanupResources=true
+[2022.05.17-14.13.10:442][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.17-14.13.10:482][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.05.17-14.13.10:518][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.05.17-14.13.10:537][566]LogAudio: Display: Audio Device (ID: 1) registered with world 'Hub'.
+[2022.05.17-14.13.10:537][566]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.17-14.13.10:537][566]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.17-14.13.10:538][566]LogAIModule: Creating AISystem for world Hub
+[2022.05.17-14.13.10:555][566]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/MyGame/LD/Hub_Dialogue) is flushing async loading
+[2022.05.17-14.13.10:555][566]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.05.17-14.13.10:560][566]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.17-14.13.10:599][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.05.17-14.13.10:643][566]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.17-14.13.10:643][566]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,168ms to complete.
+[2022.05.17-14.13.10:643][566]LogFileHelpers: Loading map 'Hub' took 0.265
+[2022.05.17-14.13.11:940][681]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.05.17-14.13.11:966][681]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.17-14.13.11:966][681]PIE: New page: PIE session: Hub (17 mai 2022 à 18:13:11)
+[2022.05.17-14.13.12:005][681]LogPlayLevel: Creating play world package: /Game/MyGame/LD/UEDPIE_0_Hub
+[2022.05.17-14.13.12:027][681]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021566s)
+[2022.05.17-14.13.12:027][681]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame/LD/Hub.Hub to /Game/MyGame/LD/UEDPIE_0_Hub.Hub (0.021701s)
+[2022.05.17-14.13.12:027][681]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.17-14.13.12:027][681]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.17-14.13.12:027][681]LogAIModule: Creating AISystem for world Hub
+[2022.05.17-14.13.12:028][681]LogPlayLevel: PIE: World Init took: (0.000830s)
+[2022.05.17-14.13.12:061][681]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.05.17-14.13.12:061][681]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.05.17-14.13.12:061][681]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.17-14.13.12:061][681]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.17-14.13.12:062][681]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.17-14.13.12:062][681]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.17-14.13.12:062][681]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.17-14.13.12:062][681]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.17-14.13.12:062][681]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.17-14.13.12:062][681]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.17-14.13.12:062][681]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.17-14.13.12:062][681]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.17-14.13.12:062][681]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.17-14.13.12:064][681]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.17-14.13.12:080][681]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Synaptics HD Audio)
+[2022.05.17-14.13.12:080][681]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.17-14.13.12:080][681]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.17-14.13.12:080][681]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.17-14.13.12:081][681]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2022.05.17-14.13.12:081][681]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2022.05.17-14.13.12:082][681]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2022.05.17-14.13.12:082][681]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2022.05.17-14.13.12:082][681]LogInit: FAudioDevice initialized.
+[2022.05.17-14.13.12:082][681]LogAudio: Display: Audio Device (ID: 7) registered with world 'Hub'.
+[2022.05.17-14.13.12:098][681]LogLoad: Game class is 'GM_InGame_C'
+[2022.05.17-14.13.12:125][681]LogWorld: Bringing World /Game/MyGame/LD/UEDPIE_0_Hub.Hub up for play (max tick rate 0) at 2022.05.17-16.13.12
+[2022.05.17-14.13.12:126][681]LogWorld: Bringing up level for play took: 0.011756
+[2022.05.17-14.13.12:127][681]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2022.05.17-14.13.12:137][681]PIE: Server logged in
+[2022.05.17-14.13.12:138][681]PIE: Play in editor total start time 0,172 seconds.
+[2022.05.17-14.13.36:448][ 49]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.17-14.13.36:448][ 49]LogWorld: BeginTearingDown for /Game/MyGame/LD/UEDPIE_0_Hub
+[2022.05.17-14.13.36:449][ 49]LogWorld: UWorld::CleanupWorld for Hub, bSessionEnded=true, bCleanupResources=true
+[2022.05.17-14.13.36:454][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.17-14.13.36:473][ 49]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.17-14.13.36:481][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.17-14.13.36:516][ 49]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.17-14.13.36:517][ 49]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.05.17-14.13.36:518][ 49]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.05.17-14.13.36:527][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.05.17-14.13.36:575][ 50]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.05.17-14.13.36:609][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.05.17-14.13.39:598][335]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.05.17-14.13.39:721][335]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MyGame/LD/Level_1Retour.Level_1Retour
+[2022.05.17-14.13.39:721][335]Cmd: MAP LOAD FILE="../../../../../../Unreal/Synaesthesia/LifeInColors/Content/MyGame/LD/Level_1Retour.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.17-14.13.39:721][335]LightingResults: New page: Lighting Build
+[2022.05.17-14.13.39:721][335]LoadErrors: New page: Loading map: Level_1Retour.umap
+[2022.05.17-14.13.39:762][335]LogWorld: UWorld::CleanupWorld for Hub, bSessionEnded=true, bCleanupResources=true
+[2022.05.17-14.13.39:762][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.17-14.13.39:762][335]LogWorld: UWorld::CleanupWorld for Hub_Dialogue, bSessionEnded=true, bCleanupResources=true
+[2022.05.17-14.13.39:762][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.17-14.13.39:762][335]MapCheck: New page: Map Check
+[2022.05.17-14.13.39:762][335]LightingResults: New page: Lighting Build
+[2022.05.17-14.13.39:800][335]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.17-14.13.39:807][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.05.17-14.13.39:810][335]LogWorld: UWorld::CleanupWorld for Level_1Retour, bSessionEnded=true, bCleanupResources=true
+[2022.05.17-14.13.39:811][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.17-14.13.39:847][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.05.17-14.13.39:883][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.05.17-14.13.39:918][335]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_1Retour'.
+[2022.05.17-14.13.39:918][335]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.17-14.13.39:918][335]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.17-14.13.39:918][335]LogAIModule: Creating AISystem for world Level_1Retour
+[2022.05.17-14.13.39:971][335]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.17-14.13.40:014][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.05.17-14.13.40:058][335]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.17-14.13.40:058][335]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,1ms to complete.
+[2022.05.17-14.13.40:058][335]LogFileHelpers: Loading map 'Level_1Retour' took 0.337
+[2022.05.17-14.13.40:151][335]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.05.17-14.13.50:571][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGame/LD/Level_1Retour" FILE="../../../../../../Unreal/Synaesthesia/LifeInColors/Content/MyGame/LD/Level_1Retour.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.17-14.13.50:603][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.05.17-14.13.50:676][ 70]LogSavePackage: Moving output files for package: /Game/MyGame/LD/Level_1Retour
+[2022.05.17-14.13.50:677][ 70]LogSavePackage: Moving '../../../../../../Unreal/Synaesthesia/LifeInColors/Saved/Level_1Retour170EC4AA4F3F22398A83509C9311D8A3.tmp' to '../../../../../../Unreal/Synaesthesia/LifeInColors/Content/MyGame/LD/Level_1Retour.umap'
+[2022.05.17-14.13.50:726][ 70]LogFileHelpers: No new changes to save!
+[2022.05.17-14.13.50:740][ 70]AssetCheck: New page: Asset Save: Level_1Retour
+[2022.05.17-14.13.50:740][ 70]LogContentValidation: Display: Validating World /Game/MyGame/LD/Level_1Retour.Level_1Retour
