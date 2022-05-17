@@ -746,3 +746,4 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.05.17-16.39.23:227][619]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,145ms to complete.
 [2022.05.17-16.39.23:227][619]LogFileHelpers: Loading map 'Level_2' took 0.108
 [2022.05.17-16.39.23:475][622]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2022.05.17-16.41.04:548][525]LogDerivedDataCache: C:/Users/Mehdi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.437 and deleted 0 file(s) with total size 0 MiB.
