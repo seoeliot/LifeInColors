@@ -91,12 +91,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "E460AA3307FEC85A8B00D62AF7930F2D748EA4FA",
-			"Assets": [
-				"/Game/MyGame/Blueprint/Paintable/RessourceJukebox/DefaultMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "47A0CCA8F2945918A8AAAE9A4AB24919CC1D0435",
 			"Assets": [
 				"/Game/MyGame/Materials/Mat_DecalBlue",
