@@ -5,6 +5,10 @@
 	"Description": "",
 	"Plugins": [
 		{
+<<<<<<< HEAD
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true
+=======
 			"Name": "Bridge",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
@@ -12,6 +16,7 @@
 				"Mac",
 				"Linux"
 			]
+>>>>>>> main
 		}
 	]
 }
