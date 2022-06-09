@@ -5,6 +5,10 @@
 	"Description": "",
 	"Plugins": [
 		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true
+		},
+		{
 			"Name": "Bridge",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
@@ -12,10 +16,6 @@
 				"Mac",
 				"Linux"
 			]
-		},
-		{
-			"Name": "ModelingToolsEditorMode",
-			"Enabled": true
 		}
 	]
 }
